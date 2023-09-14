@@ -1,0 +1,7 @@
+git init
+git config --global user.name "usuarioDeGithub"
+git config --global user.email "emailDeGithub"
+git config --global -e
+
+git status
+git add.(pasa archivos al area de ensayo)
