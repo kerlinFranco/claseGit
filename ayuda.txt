@@ -5,3 +5,4 @@ git config --global -e
 
 git status
 git add.(pasa archivos al area de ensayo)
+git commit -m "algo"(subir archivo)
